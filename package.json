@@ -1,0 +1,7 @@
+{
+  "name": "claim-blast-demo",
+  "private": true,
+  "type": "module",
+  "version": "0.1.0",
+  "description": "Demo API for claim-blast-pr reviewer tests"
+}
